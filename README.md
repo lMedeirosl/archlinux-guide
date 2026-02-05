@@ -161,6 +161,21 @@ top        # Mostra apps/processos usando CPU/RAM
   <li>pipewire-alsa</li>
   <li>pipewire-pulse</li>
   <li>wireplumber</li>
+ <li>wofi</li>
+ <li>fastfetch</li>
+ <li>gufw</li>
+ <li>fwupd</li>
+ <li>flatpak</li>
+ <li>code</li>
+ <li>hyprland</li>
+ <li>waybar</li>
+ <li>kitty</li>
+ <li>rofi</li>
+ <li>hyprpaper</li>
+ <li>ttf-jetbrains-mono-nerd</li>
+ <li>wl-clipboard</li>
+ <li>grim</li>
+ <li>slurp</li>
 </ol>
 
 
@@ -332,6 +347,11 @@ bind = SUPER, F, fullscreen
 ```
 
 Isso significa que você pode mudar qualquer atalho como quiser basta mudar no seu pc ai
+
+## Outras configs interessantes:
+### 1
+sudo nano /etc/pacman.conf
+Oq fazer ali: Tirar a # (ativar as linhas) de "color" e em "parallel downloads". E na ultima linha desse bloco adicionar : "ILoveCandy".
 
 
 
