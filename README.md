@@ -1,28 +1,7 @@
 Until i know each one of these i ll keep them here....
 </br>
-## My Packages
-<ol>
-  <li>base-devel</li>
-  <li>bash</li>
-  <li>discord</li>
-  <li>firefox</li>
-  <li>git</li>
-  <li>htop</li>
-  <li>nano</li>
-  <li>network manager</li>
-  <li>obsidian</li>
-  <li>polkit</li>
-  <li>xdg-utils</li>
-  <li>wine</li>
-  <li>mesa</li>
-  <li>pipewire</li>
-  <li>steam</li>
-  <li>pipewire-audio</li>
-  <li>pipewire-alsa</li>
-  <li>pipewire-pulse</li>
-  <li>wireplumber</li>
-</ol>
-Comandos Interessantes para saber (basicos) 0-0
+
+## Comandos Interessantes para saber (basicos) 0-0
 
  Atualizar tudo:
 
@@ -165,6 +144,28 @@ top
 
 Sempre escreva direto no terminal, sem copiar errado - ele  é sensivel ao que vc digita
 
+## My Packages
+<ol>
+  <li>base-devel</li>
+  <li>bash</li>
+  <li>discord</li>
+  <li>firefox</li>
+  <li>git</li>
+  <li>htop</li>
+  <li>nano</li>
+  <li>network manager</li>
+  <li>obsidian</li>
+  <li>polkit</li>
+  <li>xdg-utils</li>
+  <li>wine</li>
+  <li>mesa</li>
+  <li>pipewire</li>
+  <li>steam</li>
+  <li>pipewire-audio</li>
+  <li>pipewire-alsa</li>
+  <li>pipewire-pulse</li>
+  <li>wireplumber</li>
+</ol>
 
 
 
