@@ -177,6 +177,7 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>grim</li>
  <li>slurp</li>
  <li>mousepad</li>
+ <li>telegram-desktop</li>
 </ol>
 
 
