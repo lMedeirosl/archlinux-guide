@@ -185,6 +185,7 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>evince</li>
  <li>ranger</li>
  <li>neovim</li>
+ <li>kitty</li>
  
 </ol>
 
