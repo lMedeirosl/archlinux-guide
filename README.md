@@ -32,6 +32,9 @@ pacman -Ss termo
 sudo pacman -Rs nome-do-pacote
 ```
 
+```bash
+pkill (nome do software ou app aberto)  # fecha todas as abas abertas de um mesmo app
+```
 
 ---
 
@@ -178,6 +181,11 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>slurp</li>
  <li>mousepad</li>
  <li>telegram-desktop</li>
+ <li>gedit</li>
+ <li>evince</li>
+ <li>ranger</li>
+ <li>neovim</li>
+ 
 </ol>
 
 
