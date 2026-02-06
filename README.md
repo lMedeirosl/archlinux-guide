@@ -311,7 +311,7 @@ Esses são os principais “drag & drop” de janelas que você mencionou.
 
 ## **2. Fechar janelas**
 
-* **Super + Q** → Fecha a janela atual.
+* **Super + Q** → Fecha a janela atual. (no meu caso abre o terminal kitty , eu troquei mesmo)
 
 ---
 
