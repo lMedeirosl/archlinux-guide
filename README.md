@@ -150,7 +150,8 @@ top        # Mostra apps/processos usando CPU/RAM
   <li>discord</li>
   <li>firefox</li>
   <li>git</li>
-  <li>htop</li>
+  <li>htop (tipo gerenciador de tarefas) </li>   
+  <li>btop (tipo gerenciador de tarefas 2) </li>
   <li>nano</li>
   <li>network manager</li>
   <li>obsidian</li>
@@ -165,27 +166,28 @@ top        # Mostra apps/processos usando CPU/RAM
   <li>pipewire-pulse</li>
   <li>wireplumber</li>
  <li>wofi</li>
- <li>fastfetch</li>
+ <li>fastfetch (terminal famosinho) </li>   
  <li>gufw</li>
  <li>fwupd</li>
  <li>flatpak</li>
- <li>code</li>
+ <li>code (vs code) </li>
  <li>hyprland</li>
  <li>waybar</li>
- <li>kitty</li>
+ <li>kitty (terminal) </li>   
  <li>rofi</li>
  <li>hyprpaper</li>
  <li>ttf-jetbrains-mono-nerd</li>
  <li>wl-clipboard</li>
  <li>grim</li>
  <li>slurp</li>
- <li>mousepad</li>
+ <li>mousepad (bloco de notas) </li>
  <li>telegram-desktop</li>
  <li>gedit</li>
  <li>evince</li>
- <li>ranger</li>
+ <li>ranger (Explorador de arquivos)</li> 
  <li>neovim</li>
- <li>kitty</li>
+ <li>cava (visualizador de audio) </li>
+<li>cmatrix (codigos estetica) </li>
  
 </ol>
 
