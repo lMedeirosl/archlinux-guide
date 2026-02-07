@@ -185,7 +185,7 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>neovim</li>
  <li>cava (visualizador de audio) </li>
 <li>cmatrix (codigos estetica) </li>
-<li>libreoffice-fresh</li>
+<li>libreoffice-fresh (microsoft office ai ne) </li>
 <li>dolphin (explorador de arquivos) </li>
 <li>unzip (compactacao) </li>
 <li>p7zip (compactacao) </li>
@@ -193,8 +193,8 @@ top        # Mostra apps/processos usando CPU/RAM
 <li>tar (compactacao) </li>
 <li>noto-fonts (fontes basicas) </li>
 <li>noto-fonts-emoji (fontes basicas) </li>
-<li> bluez </li>
-<li> bluez-utils </li>
+<li> bluez (bluetooth) </li>
+<li> bluez-utils (bluetooth) </li>
  
 </ol>
 
