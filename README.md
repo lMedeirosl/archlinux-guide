@@ -188,6 +188,7 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>neovim</li>
  <li>cava (visualizador de audio) </li>
 <li>cmatrix (codigos estetica) </li>
+<li>libreoffice-fresh</li>
  
 </ol>
 
