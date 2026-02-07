@@ -158,7 +158,7 @@ top        # Mostra apps/processos usando CPU/RAM
   <li>polkit</li>
   <li>xdg-utils</li>
   <li>wine</li>
-  <li>mesa</li>
+  <li>mesa (driver intel aq ) </li>
   <li>pipewire</li>
   <li>steam</li>
   <li>pipewire-audio</li>
@@ -174,7 +174,6 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>hyprland</li>
  <li>waybar</li>
  <li>kitty (terminal) </li>   
- <li>rofi</li>
  <li>hyprpaper</li>
  <li>ttf-jetbrains-mono-nerd</li>
  <li>wl-clipboard</li>
@@ -187,6 +186,15 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>cava (visualizador de audio) </li>
 <li>cmatrix (codigos estetica) </li>
 <li>libreoffice-fresh</li>
+<li>dolphin (explorador de arquivos) </li>
+<li>unzip (compactacao) </li>
+<li>p7zip (compactacao) </li>
+<li>unrar (compactacao) </li>
+<li>tar (compactacao) </li>
+<li>noto-fonts (fontes basicas) </li>
+<li>noto-fonts-emoji (fontes basicas) </li>
+<li> bluez </li>
+<li> bluez-utils </li>
  
 </ol>
 
