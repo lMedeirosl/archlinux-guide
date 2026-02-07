@@ -161,7 +161,7 @@ top        # Mostra apps/processos usando CPU/RAM
   <li>obsidian</li>
   <li>polkit</li>
   <li>xdg-utils</li>
-  <li>wine</li>
+  <li>wine (roda programas do windows) </li>
   <li>mesa (driver intel aq ) </li>
   <li>pipewire</li>
   <li>steam</li>
@@ -176,7 +176,7 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>flatpak</li>
  <li>code (vs code) </li>
  <li>hyprland</li>
- <li>waybar</li>
+ <li>waybar (barra de tarefas) </li>
  <li>kitty (terminal) </li>   
  <li>hyprpaper</li>
  <li>ttf-jetbrains-mono-nerd</li>
