@@ -199,6 +199,7 @@ top        # Mostra apps/processos usando CPU/RAM
 <li>noto-fonts-emoji (fontes basicas) </li>
 <li> bluez (bluetooth) </li>
 <li> bluez-utils (bluetooth) </li>
+<li>GIMP</li>
 </br>
 <li>cpupower (performance)</li>
 <li>zram-generator (performance) </li>
