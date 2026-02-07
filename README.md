@@ -388,5 +388,10 @@ Isso significa que você pode mudar qualquer atalho como quiser basta mudar no s
 sudo nano /etc/pacman.conf
 Oq fazer ali: Tirar a # (ativar as linhas) de "color" e em "parallel downloads". E na ultima linha desse bloco adicionar : "ILoveCandy".
 
-
+### 2
+nvim #HOME/.bashrc
+Adicionar aqui em cima os seguintes no arquivo acima:
+export EDITOR=nvim
+export VISUAL=nvim
+source #HOME/.bashrc
 
