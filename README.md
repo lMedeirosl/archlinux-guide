@@ -357,6 +357,10 @@ bind = SUPER, Q, close
 
 # Fullscreen
 bind = SUPER, F, fullscreen
+
+# Areas de trabalho
+bind= SUPER,SHIFT,1-2-3-...-9  #Mandar essa janela para a area de trabalho correspondente a numeracao indicada
+bind= SUPER,1-2-3-...-9  #Navegar entre diferentes areas de trabalho
 ```
 
 Isso significa que você pode mudar qualquer atalho como quiser basta mudar no seu pc ai
