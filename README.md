@@ -35,7 +35,11 @@ sudo pacman -Rs nome-do-pacote
 ```bash
 pkill (nome do software ou app aberto)  # fecha todas as abas abertas de um mesmo app
 ```
+ Horario
 
+```bash
+watch -n 1 date +"%H:%M:%S"
+```
 ---
 
 ##  Navegar no sistema de arquivos
