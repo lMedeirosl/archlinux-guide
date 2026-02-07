@@ -180,9 +180,7 @@ top        # Mostra apps/processos usando CPU/RAM
  <li>wl-clipboard</li>
  <li>grim</li>
  <li>slurp</li>
- <li>mousepad (bloco de notas) </li>
  <li>telegram-desktop</li>
- <li>gedit</li>
  <li>evince</li>
  <li>ranger (Explorador de arquivos)</li> 
  <li>neovim</li>
