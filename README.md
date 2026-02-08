@@ -151,44 +151,37 @@ top        # Mostra apps/processos usando CPU/RAM
 <ol>
   <li>base-devel</li>
   <li>bash</li>
-  <li>discord</li>
-  <li>firefox</li>
   <li>git</li>
-  <li>htop (tipo gerenciador de tarefas) </li>   
-  <li>btop (tipo gerenciador de tarefas 2) </li>
   <li>nano</li>
   <li>network manager</li>
-  <li>obsidian</li>
+</br>
+ Apps
+  <li>discord</li>
+   <li>firefox</li>
+   <li>obsidian</li>
+   <li>steam</li>
+  <li>code (vs code) </li>
+  <li>telegram-desktop</li>
+ <li>GIMP</li>
+ </br>
   <li>polkit</li>
   <li>xdg-utils</li>
   <li>wine (roda programas do windows) </li>
   <li>mesa (driver intel aq ) </li>
   <li>pipewire</li>
-  <li>steam</li>
   <li>pipewire-audio</li>
   <li>pipewire-alsa</li>
   <li>pipewire-pulse</li>
   <li>wireplumber</li>
- <li>wofi</li>
- <li>fastfetch (terminal famosinho) </li>   
  <li>gufw</li>
  <li>fwupd</li>
  <li>flatpak</li>
- <li>code (vs code) </li>
- <li>hyprland</li>
- <li>waybar (barra de tarefas) </li>
- <li>kitty (terminal) </li>   
- <li>hyprpaper</li>
  <li>ttf-jetbrains-mono-nerd</li>
- <li>wl-clipboard</li>
  <li>grim</li>
  <li>slurp</li>
- <li>telegram-desktop</li>
  <li>evince</li>
  <li>ranger (Explorador de arquivos)</li> 
  <li>neovim</li>
- <li>cava (visualizador de audio) </li>
-<li>cmatrix (codigos estetica) </li>
 <li>libreoffice-fresh (microsoft office ai ne) </li>
 <li>dolphin (explorador de arquivos) </li>
 <li>unzip (compactacao) </li>
@@ -199,14 +192,33 @@ top        # Mostra apps/processos usando CPU/RAM
 <li>noto-fonts-emoji (fontes basicas) </li>
 <li> bluez (bluetooth) </li>
 <li> bluez-utils (bluetooth) </li>
-<li>GIMP</li>
+
 </br>
+ Performance
 <li>cpupower (performance)</li>
 <li>zram-generator (performance) </li>
 <li>lm_sensors (performance) </li>
 <li>thermald (performance) </li>
 </br>
-<li>Hyprpaper (wallpapers)</li>
+</br>
+ Estetica 1
+ <li>Hyprpaper (wallpapers)</li>
+  <li>wofi</li>
+   <li>kitty (terminal) </li>  
+   <li>waybar (barra de tarefas) </li>   
+    <li>wl-clipboard</li>
+    <li>mako</li>
+     <li>hyprland</li>
+ </br>
+ </br>
+ Estetica 2
+  <li>htop (tipo gerenciador de tarefas) </li>   
+  <li>btop (tipo gerenciador de tarefas 2) </li>
+   <li>cava (visualizador de audio) </li>
+<li>cmatrix (codigos estetica) </li>
+ <li>fastfetch (terminal famosinho) </li>   
+ </br>
+ 
 </ol>
 
 
