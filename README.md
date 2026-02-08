@@ -297,6 +297,7 @@ Esses são os principais “drag & drop” de janelas que você mencionou.
 * **Super + R** → Reinicia o Hyprland (recarrega configuração).
 * **Super + Esc** → Exibe menu de janelas (dependendo da configuração).
 * **Super + T** → Sempre “on top” (deixar janela acima das outras).
+* **FN + SHIFT + ESC**  → ~
 
 ---
 
