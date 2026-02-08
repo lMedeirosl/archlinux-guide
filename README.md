@@ -206,7 +206,7 @@ top        # Mostra apps/processos usando CPU/RAM
 <li>lm_sensors (performance) </li>
 <li>thermald (performance) </li>
 </br>
-
+<li>Hyprpaper (wallpapers)</li>
 </ol>
 
 
